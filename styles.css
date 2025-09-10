@@ -8,6 +8,7 @@ main{
     padding:0 2em;
     max-width: 2000px;
     margin: auto;
+    background-color: #F2F9FE;
 }
 header{
     width: 100%;
